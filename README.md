@@ -139,12 +139,4 @@ event_managment/
 └── README.md
 ```
 
----
 
-## 📝 License
-
-This project is created for educational purposes.
-
----
-
-Made with ❤️ for college assignment
