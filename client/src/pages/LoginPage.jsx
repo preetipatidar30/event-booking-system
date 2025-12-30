@@ -110,18 +110,7 @@ const LoginPage = () => {
                         </button>
                     </form>
 
-                    {/* Demo Credentials */}
-                    <div className="mt-6 p-4 bg-slate-900/50 rounded-xl border border-slate-700">
-                        <p className="text-sm text-slate-400 mb-2">Demo Credentials:</p>
-                        <div className="space-y-1 text-sm">
-                            <p className="text-slate-300">
-                                <span className="text-purple-400">Admin:</span> admin@eventbooking.com / admin123
-                            </p>
-                            <p className="text-slate-300">
-                                <span className="text-purple-400">User:</span> user@test.com / user123
-                            </p>
-                        </div>
-                    </div>
+                    
 
                     {/* Register Link */}
                     <p className="text-center mt-6 text-slate-400">
